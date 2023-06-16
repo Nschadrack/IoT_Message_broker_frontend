@@ -1,7 +1,7 @@
 # IoT_Message_broker_frontend
 IoT message broker test bench for testing the capacity of the message broker to measure the efficiency of the system.
 
-Backend can be found here [(IoT Message Broker Backend](https://github.com/Nschadrack/IoT_Message_Broker_Backend)
+Backend can be found here [IoT Message Broker Backend](https://github.com/Nschadrack/IoT_Message_Broker_Backend)
 
 Techstacks:
 - Python
