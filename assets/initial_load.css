@@ -1,0 +1,95 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #DDD;
+    padding: 10px 60px 10px 10px;
+    border-bottom: 2px solid #777777;
+    height: 50px;
+}
+.header-title{
+    float: right;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: #777;
+}
+.img-logo{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: left;
+    margin-top: 4px;
+}
+.initial-data{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0;
+    background-color: #DDD;
+    border-radius: 0 0 10px 10px;
+    padding: 10px;
+    min-height: 500px;
+}
+.initial-form{
+    width: 100%;
+    margin-top: -20px;
+}
+.h2-title{
+    text-align: center;
+}
+.div-form-input{
+    float: left;
+    width: 50%;
+    padding: 10px 20px;
+}
+.form-group{
+    width: 100%;
+    clear: both;
+    margin: 10px 0;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.form-group-label{
+    white-space: nowrap;
+    font-weight: bold;
+}
+.form-group-input{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-shadow: none;
+    outline: none;
+}
+.form-group-input:required{
+    border: 1px solid red;
+    outline: none;
+}
+.payload-submit-button{
+    padding: 0 20px;
+}
+.payload-item{
+    float: left;
+}
+.form-group-text-area{
+    width: 47%;
+    margin-right: 6%;
+}
+.form-group-btn{
+    width: 47%;
+    padding: 12px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(9, 20, 140);
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
