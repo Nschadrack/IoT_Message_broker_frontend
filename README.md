@@ -11,3 +11,9 @@ To run this repo. Clone it to your workspace and initial the directory as virtua
 Do the same on the backend repo. You need to run the backend repo first.
 
 Visit MQTT client here [Hive MQTT](https://www.hivemq.com/public-mqtt-broker/) and create an account which you will use for username, password and host
+
+Here is the screenshot
+
+![screenshot of dashboard](https://github.com/Nschadrack/IoT_Message_broker_frontend/blob/master/I_o_T_message_broker.jpg)
+
+![screenshot of initial data](https://github.com/Nschadrack/IoT_Message_broker_frontend/blob/master/I_o_T_message_broker_initial.jpg)
